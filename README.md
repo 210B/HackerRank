@@ -2,7 +2,7 @@
 Hacker Rank coding test study with python
 
 
-## [* 1-week Preparation Kit]([https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/])
+## [* 1-week Preparation Kit](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/)
 
 ### 1주차 (2022.10.17 ~ 10.23)
 
